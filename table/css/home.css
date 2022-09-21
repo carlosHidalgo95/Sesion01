@@ -1,0 +1,37 @@
+body {
+    margin: 0, 0, 0, 0;
+}
+
+div {
+    width: 100vw;
+}
+
+.home {}
+
+#div1 {
+    background-color: blue;
+    height: 15vh;
+}
+
+#div2 {
+    background-color: red;
+    height: 65vh;
+    display: flex;
+}
+
+#div2-izq {
+    background-color: rgb(236, 12, 142);
+    height: 65vh;
+    width: 30vw;
+}
+
+#div2-der {
+    background-color: rgb(0, 255, 89);
+    height: 65vh;
+    width: 70vw;
+}
+
+#div3 {
+    background-color: yellow;
+    height: 20vh;
+}
